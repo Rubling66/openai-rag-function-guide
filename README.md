@@ -1,2 +1,5 @@
 # openai-rag-function-guide
-OpenAI Function JSON Structure Guide: From Vector Stores to RAG Syntax
+
+Syntax notes for OpenAI function JSON, from vector stores to RAG call shape. Not a product and not a dconsult shop system.
+
+The longer writeup is the Word file in this folder.
